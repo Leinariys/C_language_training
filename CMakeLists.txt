@@ -8,7 +8,4 @@ add_executable(leson1main2 leson1/main2.c)
 add_executable(leson1main3 leson1/main3.c)
 add_executable(leson1main4 leson1/main4.c)
 
-
-
 add_executable(leson2main1 leson2/main1.c)
-
