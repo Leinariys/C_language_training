@@ -44,4 +44,17 @@ add_executable(leson8main12 leson8/main12.c)
 add_executable(leson8main13 leson8/main13.c)
 add_executable(leson8main14 leson8/main14.c)
 add_executable(leson8main15 leson8/main15.c)
-add_executable(leson8main16 leson8/main16.c)
+
+
+add_executable(leson9main1 leson9/main1.c)
+add_executable(leson9main2 leson9/main2.c)
+add_executable(leson9main3 leson9/main3.c)
+add_executable(leson9main4 leson9/main4.c)
+add_executable(leson9main5 leson9/main5.c)
+add_executable(leson9main6 leson9/main6.c)
+add_executable(leson9main7 leson9/main7.c)
+add_executable(leson9main8 leson9/main8.c)
+add_executable(leson9main9 leson9/main9.c)
+
+
+
