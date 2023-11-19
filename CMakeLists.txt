@@ -28,7 +28,6 @@ add_executable(leson7main9 leson7/main9.c)
 add_executable(leson7main10 leson7/main10.c)
 add_executable(leson7main11 leson7/main11.c)
 
-
 add_executable(leson8main1 leson8/main1.c)
 add_executable(leson8main2 leson8/main2.c)
 add_executable(leson8main3 leson8/main3.c)
@@ -55,6 +54,18 @@ add_executable(leson9main6 leson9/main6.c)
 add_executable(leson9main7 leson9/main7.c)
 add_executable(leson9main8 leson9/main8.c)
 add_executable(leson9main9 leson9/main9.c)
+
+
+
+add_executable(leson10main1 leson10/main1.c)
+add_executable(leson10main2 leson10/main2.c)
+add_executable(leson10main3 leson10/main3.c)
+add_executable(leson10main4 leson10/main4.c)
+add_executable(leson10main5 leson10/main5.c)
+add_executable(leson10main6 leson10/main6.c)
+add_executable(leson10main7 leson10/main7.c)
+add_executable(leson10main8 leson10/main8.c)
+add_executable(leson10main9 leson10/main9.c)
 
 
 
