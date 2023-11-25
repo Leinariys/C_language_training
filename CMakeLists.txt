@@ -69,3 +69,15 @@ add_executable(leson10main9 leson10/main9.c)
 
 
 
+add_executable(leson11main1 leson11/main1.c)
+add_executable(leson11main2 leson11/main2.c)
+add_executable(leson11main3 leson11/main3.c)
+add_executable(leson11main4 leson11/main4.c)
+add_executable(leson11main5 leson11/main5.c)
+add_executable(leson11main6 leson11/main6.c)
+add_executable(leson11main7 leson11/main7.c)
+add_executable(leson11main8 leson11/main8.c)
+add_executable(leson11main9 leson11/main9.c)
+
+
+
