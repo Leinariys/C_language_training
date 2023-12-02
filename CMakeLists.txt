@@ -78,5 +78,12 @@ add_executable(leson11main7 leson11/main7.c)
 add_executable(leson11main8 leson11/main8.c)
 add_executable(leson11main9 leson11/main9.c)
 
+add_executable(leson11mainTestBeep leson11/mainTestBeep.c)
 
 
+add_executable(leson12main4 leson12/main4.c)
+add_executable(leson12main5 leson12/main5.c)
+add_executable(leson12main6 leson12/main6.c)
+add_executable(leson12main7 leson12/main7.c)
+add_executable(leson12main8 leson12/main8.c)
+add_executable(leson12main9 leson12/main9.c)
