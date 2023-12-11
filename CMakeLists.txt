@@ -86,3 +86,20 @@ add_executable(leson12main6 leson12/main6.c)
 add_executable(leson12main7 leson12/main7.c)
 add_executable(leson12main8 leson12/main8.c)
 add_executable(leson12main9 leson12/main9.c)
+
+
+
+
+
+add_executable(leson13main1 leson13/main1.c)
+add_executable(leson13main2 leson13/main2.c)
+add_executable(leson13main3 leson13/main3.c)
+add_executable(leson13main4 leson13/main4.c)
+add_executable(leson13main5 leson13/main5.c)
+
+
+
+
+
+
+
