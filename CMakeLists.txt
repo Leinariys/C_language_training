@@ -99,6 +99,8 @@ add_executable(leson13main5 leson13/main5.c)
 
 
 
+add_executable(leson14main1 leson14_kr/main1.c leson14_kr/temp_api.c)
+
 
 
 
