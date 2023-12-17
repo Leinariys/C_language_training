@@ -2,14 +2,6 @@
 // Created by leina on 015 15.12.2023.
 //
 
-#ifndef C_LANGUAGE_TRAINING_TEMP_API_H
-#define C_LANGUAGE_TRAINING_TEMP_API_H
-
-#endif //C_LANGUAGE_TRAINING_TEMP_API_H
-
-
-
-#define TEMP_API_H
 
 typedef struct {
     int year;
