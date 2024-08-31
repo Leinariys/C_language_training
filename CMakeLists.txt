@@ -97,8 +97,6 @@ add_executable(leson13main3 leson13/main3.c)
 add_executable(leson13main4 leson13/main4.c)
 add_executable(leson13main5 leson13/main5.c)
 
-
-
 add_executable(leson14main1
         leson14/main1.c
         leson14/temp_api.c
@@ -106,6 +104,5 @@ add_executable(leson14main1
 )
 
 
-
-
+add_executable(test_hex test_hex/main1.c)
 
