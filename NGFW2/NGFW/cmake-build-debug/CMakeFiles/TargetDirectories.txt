@@ -1,0 +1,3 @@
+C:/Projects/Ch/NGFW/cmake-build-debug/CMakeFiles/NGFW.dir
+C:/Projects/Ch/NGFW/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/Ch/NGFW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
